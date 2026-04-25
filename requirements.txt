@@ -1,0 +1,23 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+setuptools<81
+
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+diffusers==0.18.2
+numpy==1.24.4
+scikit-image==0.19.3
+scikit-video==1.1.11
+zarr==2.12.0
+numcodecs==0.10.2
+pygame==2.1.2
+pymunk==6.2.1
+gym==0.26.2
+shapely==1.8.4
+opencv-python==4.8.1.78
+gdown==4.7.1
+tqdm==4.66.2
+huggingface-hub==0.16.4
+imageio-ffmpeg==0.4.9
+ipykernel==6.29.5
+ipywidgets==8.1.2
+jupyterlab==4.1.8

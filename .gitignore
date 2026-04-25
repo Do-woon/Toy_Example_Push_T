@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local runtime artifacts for Push-T demo
+.local_libs/
+pusht_cchi_v7_replay.zarr.zip
