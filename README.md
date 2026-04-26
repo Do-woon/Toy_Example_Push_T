@@ -23,3 +23,9 @@ python -m pip install --no-compile -r requirements.txt
 ## 데이터셋 파일
 
 노트북은 `pusht_cchi_v7_replay.zarr.zip`이 없으면 자동 다운로드를 시도합니다.  
+
+## 실행 결과 예시
+
+![Push-T demo result](./vis_fm.gif)
+
+GIF가 보이지 않으면 직접 열기: [vis_fm.gif](./vis_fm.gif)
